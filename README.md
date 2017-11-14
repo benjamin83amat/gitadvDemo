@@ -3,4 +3,4 @@ hello primu commit
 adaugare
 
 
-modificare on the branch
+asta vrea probleme
